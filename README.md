@@ -1,3 +1,7 @@
+# App details
+
+Training of using useState + API call, this app is taking your search request and send the API to unsplash, returning the picture of your query.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
